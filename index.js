@@ -40,4 +40,4 @@ client.on('message', msg => {
       msg.reply('một vấn đề có vẻ đơn giản nhưng lại rất phức tạp');
     }
   });
-client.login('NDY4NDE3OTI3MDMzNjUxMjAx.Di59pg.iZj-MsatPiHGkBTMfd2zRzLhuQs');
+client.login('NDY4NDE3OTI3MDMzNjUxMjAx.Di8dBA.0e789gSwGvK0l8zs5CZl7g3UwFo');
